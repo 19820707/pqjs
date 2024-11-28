@@ -1,0 +1,8 @@
+# Ignorar ambiente virtual 
+myenv/ 
+# Ignorar arquivos Python compilados 
+*.pyc 
+__pycache__/ 
+# Ignorar outras pastas ou arquivos tempor rios 
+.DS_Store 
+*.log 
